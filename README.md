@@ -1,6 +1,6 @@
 # Object_Detection_In_Hazy_Condition
 
-A repository for  [5th UG2+ challenge (CVPR 2022) Track 1.1 - Object Detection in the Hazy Condition] (https://codalab.lisn.upsaclay.fr/competitions/1235#results) using Deep Learning.
+A repository for  [5th UG2+ challenge (CVPR 2022) Track 1.1 - Object Detection in the Hazy Condition](https://codalab.lisn.upsaclay.fr/competitions/1235#results) using Deep Learning.
 
 Following techniques were applied:
 1. Generic Model-Agnostic Convolutional Neural Network(GMAN) is tested for haze removal.It is a convolutional neural network that employs the encoder-decoder network for denoising image. Model is trained from the scratch.
